@@ -19,7 +19,7 @@ https://colab.research.google.com/drive/1sCOOtH9PRtCBK6Z2LgXxeOhuNpED1m9H
 使った訓練データ | サイズ | ペナルティー付きスコア | データ
 --------------| :---: | :---: | :---:
 訓練データ　全体 | 222,074ペア | Accuracy - 5.0 % | [train_222070.csv](http://sato-motoki.com/yans/hackathon2019/dataset/train_222070.csv)
-訓練データ　中 | 100,000ペア | Accuracy -1 2.0 % | [train_100000.csv](http://sato-motoki.com/yans/hackathon2019/dataset/train_100000.csv)
+訓練データ　中 | 100,000ペア | Accuracy - 2.0 % | [train_100000.csv](http://sato-motoki.com/yans/hackathon2019/dataset/train_100000.csv)
 訓練データ　小 | 10,000ペア | Accuracy  | [train_10000.csv](http://sato-motoki.com/yans/hackathon2019/dataset/train_10000.csv)
 
 ```
